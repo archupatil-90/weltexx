@@ -120,9 +120,12 @@ button{
     padding-left: 9px;
     font-size: 14px;
 }
-
+.mySlides {
+    width: 100%;
 }
 
+}
+/* end responsive */
 
 
 /* slider */
