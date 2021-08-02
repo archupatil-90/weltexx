@@ -121,7 +121,16 @@ button{
     font-size: 14px;
 }
 .mySlides {
-    width: 100%;
+    width: 100%!important;
+}
+
+.open .dropdown-content1{
+    display: block !important;
+    opacity: 1;
+}
+.dropdown-content li:hover .dropdown-content1{
+    display: block;
+    opacity: 1;
 }
 
 }
