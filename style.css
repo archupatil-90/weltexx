@@ -393,6 +393,9 @@ background: #428bcaa6;
         padding: 0;
         margin: 0;
     }
+    #center p{
+        font-size: 1.1em;
+    }
    
     .center_1 {
         position: relative;
@@ -650,7 +653,8 @@ font-weight: 600;
     text-align: center;
 }
 div p{
-    font-size:1.2em ;color: white;
+    font-size:1.1em ;
+    color: white;
 }
 .icon-inner i{
     font-size: 20px;
@@ -1101,3 +1105,7 @@ margin-top: 10px;
     position: relative;
     left: 50%;
 }
+/* .pirce {
+    font-size: 16px;
+    color: #c00;
+} */
