@@ -1,5 +1,8 @@
 @media only screen and (max-width:425px)
 {
+   .follow{
+       margin-top: 50px;
+   }
     header{
         height: 70px;
         position: relative;
@@ -25,7 +28,7 @@
 
     }
    nav ul li > a{
-        color: #f6c405 !important;
+        color: black !important;
     }
     .dropdown-content1 {
         position: relative;
@@ -36,8 +39,7 @@ background:white;
 
         }
    
-
-   
+ 
 
       
        nav .menu ul li a{
@@ -145,6 +147,9 @@ label{
     left: 25%;
 }
 
+}
+.banner img{
+    width: 400px;
 }
 /* end responsive */
 
