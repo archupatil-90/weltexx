@@ -28,14 +28,20 @@
 
     }
    nav ul li > a{
-        color: black !important;
+        color: white !important;
+    }
+    .dropdown-content{
+       min-width:335px;
+        left: 0%;
+        background:  #9a0b5c;
     }
     .dropdown-content1 {
         position: relative;
        
         left: 0%;
        
-background:white;
+        background:  #b91773;
+
 
         }
    

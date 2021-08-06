@@ -304,7 +304,7 @@ background: #428bcaa6;
     font-size: 15px;
     display: block;
     position: relative;
-    background: white;
+    background:  #b91773;
     top:18px;
     left: -5px;
     text-align: left;
@@ -522,6 +522,7 @@ display: block;
    .abt-icon{
        width:90%;
        margin: auto;
+     
       
    }
   
@@ -570,13 +571,17 @@ font-weight: 600;
        width:23%;
        /* padding: 5px; */
        border: 1px solid #cccc;
+      
+       
    }
   .box > figure{
       width: 100%;
+     
    
    }
    figure img{
        width: 100%;
+
    }
   .box ul li{
        list-style: disc;
@@ -1116,3 +1121,4 @@ margin-top: 10px;
     font-size: 16px;
     color: #c00;
 } */
+
