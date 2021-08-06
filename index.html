@@ -23,6 +23,9 @@
 <!-- JS -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
+<!-- animation css -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -379,7 +382,7 @@
                 </span>
             </div>
 
-            <div class="abt-icon d-lg-flex  justify-content-between mb-5 d-md-block">
+            <div class="abt-icon d-lg-flex  justify-content-between mb-5 d-md-block"  data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 <div class="col-lg-3 d-flex  col-sm-12  mb-4 mb-md-0 justify-content-between ">
                     <div class="box-img">
                         <div class="round align-items-center">
@@ -432,7 +435,7 @@
             </div>
 
 
-            <div class="abt-icon d-lg-flex   justify-content-between mb-4  d-md-block">
+            <div class="abt-icon d-lg-flex   justify-content-between mb-4  d-md-block"  data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                 <div class="col-lg-3 d-flex  col-sm-12 mb-4 mb-md-0 justify-content-between ">
 
                     <div class="box-img">
@@ -497,8 +500,8 @@
                     <h2>we provide</h2>
                 </div>
             </div>
-            <div class="pro-range d-lg-flex justify-content-between  mb-5  d-md-block ">
-                <div class="box mb-4 mb-md-0">
+            <div class="pro-range d-lg-flex justify-content-between  mb-5  d-md-block " data-aos="zoom-out" data-aos-easing="ease-in-sine" data-aos-delay="500">
+                <div class="box mb-4 mb-md-0" >
                     <figure>
                         <a class="clr" href="fabric-folding.html">
 
@@ -599,7 +602,7 @@
             </div>
 
 
-            <div class="pro-range d-lg-flex justify-content-between  mb-5  d-md-block ">
+            <div class="pro-range d-lg-flex justify-content-between  mb-5  d-md-block " data-aos="zoom-out" data-aos-easing="ease-in-sine" data-aos-delay="500">
                 <div class="box mb-4 mb-md-0">
                     <figure>
                         <a class="clr" href=" knitted-fabric.html">
@@ -885,10 +888,12 @@ jQuery(window).load(function ()
             
             
 
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>  
             
             
-            
-  
+<script>
+    AOS.init();
+  </script>
 
 
 </body>
