@@ -33,14 +33,13 @@
     .dropdown-content{
        min-width:335px;
         left: 0%;
-        background:  #9a0b5c;
+        /* background:  #9a0b5c; */
     }
     .dropdown-content1 {
         position: relative;
        
         left: 0%;
        
-        background:  #b91773;
 
 
         }
@@ -182,19 +181,23 @@ box-shadow: 0 0 5px black;
   position: relative;
   margin: auto;
   /* background: url(https://aiwaapp.net/cache/media_cache/87d8a85187070c8d89f984603cdefcd6.jpg); */
-  
+  top: 20px;
+    margin-bottom: 30px;
+
 }
 
 /* Caption text */
 .text {
-  color:#ef3e46;
-  font-size: 15px;
+  color:brown;
+  font-size: 30px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 20px;
+  bottom: 50px;
   left: 0;
   width: 100%;
   text-align: center;
+  font-weight: bold;
+  text-transform: capitalize;
 }
 
 /* Number text (1/3 etc) */

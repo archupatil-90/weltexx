@@ -27,6 +27,7 @@
 }
 .header_main1::before {
 /* right: 108px; */
+
     width: 50%;
     transform: skew( 30deg);
     left: -23px;
@@ -103,6 +104,9 @@ margin-left: 65px;
     font-weight: 400;
     line-height: 1;
 
+}
+.glyphicon i{
+    color: white;
 }
 
 
@@ -224,7 +228,7 @@ text-align: left;
     top:100%;
     padding: 0 27px;
 box-sizing: border-box;
-background: #428bcaa6;
+background:  #9a0b5c;
     }
     .dropdown-content li{
         padding: 10px 0 ;
@@ -262,7 +266,8 @@ background: #428bcaa6;
         text-align: left;
         top:5%;
         padding: 0;
-background: #428bcaa6;
+background:  #b91773;
+
 
         }
         .dropdown-content1 li{
@@ -473,8 +478,14 @@ background: #428bcaa6;
     .section-title {
         padding-top: 10px;
         text-align: center;
+        text-transform: capitalize;
 
         /* position: absolute; */
+    }
+    h2,h3{
+  
+        text-transform: capitalize;
+
     }
     
     .section-title h2 {
