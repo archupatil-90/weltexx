@@ -228,7 +228,7 @@ text-align: left;
     top:100%;
     padding: 0 27px;
 box-sizing: border-box;
-background:  #9a0b5c;
+background:  #f6a105;
     }
     .dropdown-content li{
         padding: 10px 0 ;
@@ -266,7 +266,7 @@ background:  #9a0b5c;
         text-align: left;
         top:5%;
         padding: 0;
-background:  #b91773;
+background:  #da8f03;
 
 
         }
@@ -309,7 +309,7 @@ background:  #b91773;
     font-size: 15px;
     display: block;
     position: relative;
-    background:  #b91773;
+    background:  #f6a105;
     top:18px;
     left: -5px;
     text-align: left;
@@ -813,6 +813,7 @@ font-weight: 500;
     margin-top:15px;
     outline: none;
     box-sizing: border-box;
+    font-size: 0.9rem!important;
 }
 
 .placeholder {
