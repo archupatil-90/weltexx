@@ -272,64 +272,6 @@ margin-left: 65px;
         font-size: 1.1em;
     }
    
-    .center_1 {
-        position: relative;
-        /* top: 91%; */
-        left: 0;
-        right: 0;
-        display: flex;
-    }
-    .center_2 {
-        background-color: #f6c405;
-        padding: 20px;
-        border-left: 10px solid #c19e19;
-        display: flex;
-
-    }
-
-    .center_4 {
-        padding-left: 10px;
-        padding-top: 8px;
-    }
-    .center_5 {
-        background-color: #01063a;
-        padding: 20px;
-        display: flex;
-    }
-    .center_4 h4 {
-        color: #fff;
-    }
-
-    .center_4 p {
-        color: #8c8787;
-        padding: 0px;
-        margin: 0px;
-    }
-    .center_6 {
-        background-color: #901800;
-        padding: 20px;
-        border-right: 10px solid #5a1203;
-        display: flex;
-
-    }
-    .center_7 i {
-        background-color: #3c5da2;
-        padding: 20px;
-        color: #fff;
-        font-size: 20px;
-    }
-    .center_3 i {
-        background-color: #c19e19;
-        padding: 20px;
-        color: #ffffff;
-        font-size: 20px;
-    }
-    .center_8 i {
-        background-color: #5a1203;
-        padding: 20px;
-        color: #fff;
-        font-size: 20px;
-    }
     
     .about {
         width: 90%;
